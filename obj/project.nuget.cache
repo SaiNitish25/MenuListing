@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNqy5QUvhHikb4zH3ruonaCdGKRLPt472/CH7Wao4IJqcrFV8KMv0K9EF1PbpJlLgTNjaHHy83wem04Swm55VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\TruyumPortal\\MenuListService\\MenuItemListingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
